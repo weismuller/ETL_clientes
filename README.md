@@ -6,15 +6,15 @@ Ler um arquivo CSV com dados de clientes contendo as colunas Nome, Conta e Cart�
 
 
 ## Estrutura do projeto
-ETL_clientes/
-├── data/
-│   ├── clientes_100.csv
-│   └── clientes_tratados.csv
-├── extract.py
-├── transform.py
-├── load.py
-├── main.py
-└── requirements.txt
+    ETL_clientes/
+    ├── data/
+    │   ├── clientes_100.csv
+    │   └── clientes_tratados.csv
+    ├── extract.py
+    ├── transform.py
+    ├── load.py
+    ├── main.py
+    └── requirements.txt
 
 ## Etapas do ETL
 
