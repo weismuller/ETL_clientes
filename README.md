@@ -47,15 +47,15 @@ Ler um arquivo CSV com dados de clientes contendo as colunas Nome, Conta e Cart�
 
 ## Exemplo de entrada
 
-Nome,Conta,Cartão
-Ana Souza,12345-6,9999-1111-2222-3333
-Bruno Lima,98765-4,8888-7777-6666-5555
+    Nome,Conta,Cartão
+    Ana Souza,12345-6,9999-1111-2222-3333
+    Bruno Lima,98765-4,8888-7777-6666-5555
 
 ## Exemplo de saída
 
-Nome,Conta,Cartão
-Ana Souza,12345-6,****-****-****-3333
-Bruno Lima,98765-4,****-****-****-5555
+    Nome,Conta,Cartão
+    Ana Souza,12345-6,****-****-****-3333
+    Bruno Lima,98765-4,****-****-****-5555
 
 ## Tecnologias utilizadas
 
